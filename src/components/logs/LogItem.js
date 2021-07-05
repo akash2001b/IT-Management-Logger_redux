@@ -3,7 +3,7 @@ import Moment from "react-moment";
 
 function LogItem({ log }) {
   return (
-    <li class="collection-item">
+    <li className="collection-item">
       <div>
         <a
           href="#edit-log-modal"

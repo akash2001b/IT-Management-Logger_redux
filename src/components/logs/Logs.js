@@ -8,7 +8,7 @@ function Logs() {
   useEffect(() => {
     getLogs();
 
-    //esling-disable-next-line
+    //eslint-disable-next-line
   }, []);
 
   const getLogs = async () => {
@@ -25,8 +25,8 @@ function Logs() {
   }
   return (
     <div>
-      <ul class="collection with-header">
-        <li class="collection-header">
+      <ul className="collection with-header">
+        <li className="collection-header">
           <h4>System Logs</h4>
         </li>
         {!loading && logs.length === 0 ? (
