@@ -8,11 +8,11 @@
       "date": "2021-07-07T19:13:54.947Z"
     },
     {
+      "id": 2,
       "message": "hard drive failed in 002",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2021-07-07T18:03:36.937Z",
-      "id": 2
+      "tech": "John Doe",
+      "date": "2021-07-07T19:38:02.687Z"
     }
   ],
   "techs": [
