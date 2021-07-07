@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2021-07-07T18:03:36.937Z",
       "id": 2
-    },
-    {
-      "message": "wireless down 11234",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2021-07-07T18:03:55.570Z",
-      "id": 3
     }
   ],
   "techs": [
