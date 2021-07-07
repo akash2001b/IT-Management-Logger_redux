@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "changed network card on 007",
-      "attention": false,
+      "attention": true,
       "tech": "Sam Smith",
-      "date": "2021-07-07T18:03:22.798Z",
-      "id": 1
+      "date": "2021-07-07T19:13:54.947Z"
     },
     {
       "message": "hard drive failed in 002",
